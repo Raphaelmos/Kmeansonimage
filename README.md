@@ -22,19 +22,25 @@ In addition, the project sheet stipulated:
   3. Implementation of functionalities in the form of an interactive menu
 
 
-## Usage
+# How to use ?
 
-    Clone the repository
-    ```
-    https://github.com/Raphaelmos/Kmeansonimage.git
-    ```
+Clone the repository
+```
+https://github.com/Raphaelmos/Kmeansonimage.git
+```
+# Usage
 
-    
-    Compile the code using make
-    Run the executable with a source image file and desired number of clusters as arguments
-    The image will now appear on your screen, left-click and a menu will appear with many differnet possibilities, to use k-means on the image, select it and in your bash a loading will appear and when at 100%.. Wait a few seconds
-    Now you see the result of it !
+Compile the code using make
+Run the executable with a source image file and desired number of clusters as arguments
+The image will now appear on your screen, left-click and a menu will appear with many differnet possibilities, to use k-means on the image, select it and in your bash a loading will appear and when at 100%.. Wait a few seconds
+Now you see the result of it !
 
+
+
+## Possible improvements
+
+Add more and more algorithms, currently have K-means, RLE, Dithering
+Extend to more than .ppm images
 
 ## French 
 
