@@ -44,8 +44,8 @@ To be fully transparent there's a total of 53 different versions of this project
 
 ## Possible improvements
 
-Add more and more algorithms, currently have K-means, RLE, Dithering
-Extend to more than .ppm images
+Add more and more algorithms, currently have K-means, RLE, Dithering.
+<br/>Have more formats of images working and not only .ppm
 
 ## French 
 
