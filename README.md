@@ -36,7 +36,11 @@ https://github.com/Raphaelmos/Kmeansonimage.git
 
 Now you see the result of it !
 
+## Important to notice
 
+To be fully transparent there's a total of 53 different versions of this project, 
+<br/> V35 is stable, have the functional 3 algorithms but the colors result have a chance to produce unexpected result
+<br/> V51 is less stable, but have meaningful changes like a histogram that fix the unexpected possible results 
 
 ## Possible improvements
 
