@@ -30,9 +30,10 @@ https://github.com/Raphaelmos/Kmeansonimage.git
 ```
 # Usage
 
-Compile the code using make
-Run the executable with a source image file and desired number of clusters as arguments
-The image will now appear on your screen, left-click and a menu will appear with many differnet possibilities, to use k-means on the image, select it and in your bash a loading will appear and when at 100%.. Wait a few seconds
+1. Compile the code using make
+2. Run the executable with a source image file and desired number of clusters as arguments
+3. The image will now appear on your screen, left-click and a menu will appear with many differnet possibilities, to use k-means on the image, select it and in your bash a loading will appear and when at 100%.. Wait a few seconds
+
 Now you see the result of it !
 
 
