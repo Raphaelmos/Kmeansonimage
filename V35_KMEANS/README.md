@@ -4,4 +4,4 @@ This folder contains the implementation of the k-means clustering algorithm in C
 
 A example of a result we can get when the algorithm is executed on a image : 
 
-![Example of execution](example1.jpg "Example of execution").
+![Example of execution](example1.png "Example of execution").
