@@ -52,7 +52,7 @@ Add more and more algorithms, currently have K-means, RLE, Dithering.
 Ce projet a été développé de manière seule et incrémentale au fil de plusieurs itérations
 et de nombreux essais, dans le but de déboguer et améliorer pas à pas le code source. Les
 images tests utilisées sont au format PPM.
-L’image numérique occupe une place considérable dans le stockage de données. Sa compression permet de réduire cette empreinte mémoire. L’objectif de ce projet était d’implémenter
+L’image numérique occupe une place considérable dans le stockage de données. Cette compression permet de réduire cette empreinte mémoire. L’objectif de ce projet était d’implémenter
 les principales étapes de la compression et décompression d’une image fixes :
 1. Quantification des couleurs via l’algorithme des k-means
 2. Création d’une table d’indexation des couleurs (CLUT)
